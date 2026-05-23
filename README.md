@@ -4,6 +4,24 @@ An AI-powered Solar Storm Monitoring System that detects solar storm activity in
 
 ---
 
+# 💡 Problem Statement
+
+Solar storms can damage critical infrastructure and communication systems, but real-time monitoring solutions are limited and expensive. This project aims to provide an intelligent, accessible, and automated solution for detecting solar storm risks using machine learning and live data analysis.
+
+---
+
+# 🔥 Innovation
+
+This project combines:
+- Real-time space weather monitoring
+- AI-based anomaly detection
+- Machine learning forecasting
+- Instant alert generation
+- Live dashboard visualization
+
+into one automated system.
+
+---
 
 # 🌍 Why This Project Matters
 
@@ -25,40 +43,6 @@ This project provides an AI-based real-time monitoring and alert system that can
 - 🧠 AI-based scientific research
 
 ---
-
-# 🎯 Target Sectors
-
-- Space Technology
-- Artificial Intelligence
-- Disaster Management
-- Cyber Infrastructure
-- Telecommunications
-- Scientific Research
-- Aerospace Industry
-- Government Space Agencies
-
----
-
-# 💡 Problem Statement
-
-Solar storms can damage critical infrastructure and communication systems, but real-time monitoring solutions are limited and expensive. This project aims to provide an intelligent, accessible, and automated solution for detecting solar storm risks using machine learning and live data analysis.
-
----
-
-# 🔥 Innovation
-
-This project combines:
-- Real-time space weather monitoring
-- AI-based anomaly detection
-- Machine learning forecasting
-- Instant alert generation
-- Live dashboard visualization
-
-into one automated system.
-
----
-
-
 
 # ⚙️ Workflow Diagram
 
@@ -110,33 +94,7 @@ flowchart TD
 - Pandas
 - Matplotlib
 ---
-# 📂 Project Structure
 
-```bash
-SolarStrom/
-│
-├── src/
-│   ├── anomalies/
-│   │   ├── training/
-│   │   └── forecast/
-│   │
-│   ├── ml/
-│   │   ├── live_predict.py
-│   │   ├── random_forest_classifier.py
-│   │   ├── lstm_andrew_clean.py
-│   │   └── trained_models/
-│   │
-│   └── web/
-│       ├── index.php
-│       ├── forecast.php
-│       ├── history.php
-│       ├── script.js
-│       └── style.css
-│
-└── README.md
-```
-
----
 
 # 📊 Machine Learning Models
 
@@ -151,8 +109,6 @@ Used for anomaly classification and solar storm detection.
 # 🎥 Demo Video
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
-
-
 
 ---
 
@@ -207,13 +163,6 @@ http://localhost:8000
 - Mobile application support
 - Advanced deep learning models
 - Improved forecasting accuracy
-
----
-
-# 📌 About
-
-A real-time AI-based solar storm detection system that uses machine learning and anomaly detection to monitor, analyze, and predict solar activity with instant alerts.  
-
 
 ---
 
