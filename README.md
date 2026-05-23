@@ -178,7 +178,7 @@ A real-time AI-based solar storm detection system that uses machine learning and
 
 # 👨‍💻 Author
 
-Developed for real-time space weather monitoring and solar storm prediction research.  
+
 Ayush Shah  
 Computer Science Engineering Student  
 Interest: Cyber Security, AI, IoT & Software Development
