@@ -172,12 +172,13 @@ http://localhost:8000
 # 📌 About
 
 A real-time AI-based solar storm detection system that uses machine learning and anomaly detection to monitor, analyze, and predict solar activity with instant alerts.  
-Ayush Shah  
-Computer Science Engineering Student  
-Interest: Cyber Security, AI, IoT & Software Development
+
 
 ---
 
 # 👨‍💻 Author
 
-Developed for real-time space weather monitoring and solar storm prediction research.
+Developed for real-time space weather monitoring and solar storm prediction research.  
+Ayush Shah  
+Computer Science Engineering Student  
+Interest: Cyber Security, AI, IoT & Software Development
