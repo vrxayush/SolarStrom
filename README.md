@@ -39,7 +39,7 @@ An AI-powered Solar Storm Monitoring System that detects solar storm activity in
 # 📂 Project Structure
 
 ```bash
-SolarStrom-main/
+SolarStrom/
 │
 ├── src/
 │   ├── anomalies/
@@ -111,14 +111,13 @@ Used for anomaly classification and solar storm detection.
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
 
-> Replace `YOUR_VIDEO_LINK_HERE` with your YouTube or Drive demo video link.
+
 
 ---
 
 # 📈 Output
 
 - Real-time solar storm alerts
-- Forecast graphs and anomaly charts
 - Historical activity analysis
 - Live monitoring dashboard
 
@@ -129,8 +128,8 @@ Used for anomaly classification and solar storm detection.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SolarStrom.git
-cd SolarStrom-main
+git clone https://github.com/vrxayush/SolarStrom.git
+cd SolarStrom
 ```
 
 ## Install Dependencies
@@ -163,17 +162,19 @@ http://localhost:8000
 
 # 🎯 Future Improvements
 
-- SMS and Email alert integration
+
 - Mobile application support
 - Advanced deep learning models
 - Improved forecasting accuracy
-- Cloud deployment support
 
 ---
 
 # 📌 About
 
-A real-time AI-based solar storm detection system that uses machine learning and anomaly detection to monitor, analyze, and predict solar activity with instant alerts.
+A real-time AI-based solar storm detection system that uses machine learning and anomaly detection to monitor, analyze, and predict solar activity with instant alerts.  
+Ayush Shah  
+Computer Science Engineering Student  
+Interest: Cyber Security, AI, IoT & Software Development
 
 ---
 
