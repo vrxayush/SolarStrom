@@ -108,7 +108,7 @@ Used for anomaly classification and solar storm detection.
 
 # 🎥 Demo Video
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/O35QFSHDpyU?feature=shared)
 
 ---
 
